@@ -1,0 +1,37 @@
+_repo: Portrait-Miniatures_40532
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40532-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Williamson, George Charles
+    aliases:
+    - Williamson, George C.
+    - Williamson, G. C. (George Charles)
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '38320'
+    url: http://www.gutenberg.org/2009/agents/38320
+  editor:
+    agent_name: Holme, Charles
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '41084'
+    url: http://www.gutenberg.org/2009/agents/41084
+description: ''
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40532'
+  lccn: '10013466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Miniature painting -- Reproduction'
+- !lcc 'N'
+- !lcsh 'Miniature painting'
+title: Portrait Miniatures
+url: http://www.gutenberg.org/ebooks/40532
